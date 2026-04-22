@@ -1,0 +1,20 @@
+# goal
+float64 target_x
+float64 target_y
+
+---
+
+# result
+bool success
+float64 final_x
+float64 final_y
+string message
+
+---
+
+# feedback
+float64 current_x
+float64 current_y
+float64 dist_remaining
+string phase
+
