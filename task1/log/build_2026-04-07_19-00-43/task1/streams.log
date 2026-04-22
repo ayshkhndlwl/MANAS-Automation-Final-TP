@@ -1,0 +1,37 @@
+[0.518s] Invoking command in '/home/ayush/ros2_ws/src/task1/task1': PYTHONPATH=/home/ayush/ros2_ws/src/task1/build/task1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/ros2_ws/src/task1/install/task1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/task1 build --build-base /home/ayush/ros2_ws/src/task1/build/task1/build install --record /home/ayush/ros2_ws/src/task1/build/task1/install.log --single-version-externally-managed install_data
+[0.677s] running egg_info
+[0.678s] creating ../build/task1/task1.egg-info
+[0.678s] writing ../build/task1/task1.egg-info/PKG-INFO
+[0.678s] writing dependency_links to ../build/task1/task1.egg-info/dependency_links.txt
+[0.679s] writing entry points to ../build/task1/task1.egg-info/entry_points.txt
+[0.679s] writing requirements to ../build/task1/task1.egg-info/requires.txt
+[0.679s] writing top-level names to ../build/task1/task1.egg-info/top_level.txt
+[0.683s] writing manifest file '../build/task1/task1.egg-info/SOURCES.txt'
+[0.684s] reading manifest file '../build/task1/task1.egg-info/SOURCES.txt'
+[0.685s] writing manifest file '../build/task1/task1.egg-info/SOURCES.txt'
+[0.685s] running build
+[0.685s] running build_py
+[0.685s] creating /home/ayush/ros2_ws/src/task1/build/task1/build
+[0.685s] creating /home/ayush/ros2_ws/src/task1/build/task1/build/lib
+[0.685s] creating /home/ayush/ros2_ws/src/task1/build/task1/build/lib/task1
+[0.685s] copying task1/__init__.py -> /home/ayush/ros2_ws/src/task1/build/task1/build/lib/task1
+[0.685s] running install
+[0.685s] running install_lib
+[0.688s] creating /home/ayush/ros2_ws/src/task1/install/task1/lib/python3.10/site-packages/task1
+[0.689s] copying /home/ayush/ros2_ws/src/task1/build/task1/build/lib/task1/__init__.py -> /home/ayush/ros2_ws/src/task1/install/task1/lib/python3.10/site-packages/task1
+[0.689s] byte-compiling /home/ayush/ros2_ws/src/task1/install/task1/lib/python3.10/site-packages/task1/__init__.py to __init__.cpython-310.pyc
+[0.689s] running install_data
+[0.689s] creating /home/ayush/ros2_ws/src/task1/install/task1/share/ament_index
+[0.689s] creating /home/ayush/ros2_ws/src/task1/install/task1/share/ament_index/resource_index
+[0.689s] creating /home/ayush/ros2_ws/src/task1/install/task1/share/ament_index/resource_index/packages
+[0.689s] copying resource/task1 -> /home/ayush/ros2_ws/src/task1/install/task1/share/ament_index/resource_index/packages
+[0.689s] copying package.xml -> /home/ayush/ros2_ws/src/task1/install/task1/share/task1
+[0.689s] creating /home/ayush/ros2_ws/src/task1/install/task1/share/task1/launch
+[0.689s] copying launch/gazebo.launch.py -> /home/ayush/ros2_ws/src/task1/install/task1/share/task1/launch
+[0.689s] creating /home/ayush/ros2_ws/src/task1/install/task1/share/task1/urdf
+[0.689s] copying urdf/robot.urdf -> /home/ayush/ros2_ws/src/task1/install/task1/share/task1/urdf
+[0.689s] running install_egg_info
+[0.689s] Copying ../build/task1/task1.egg-info to /home/ayush/ros2_ws/src/task1/install/task1/lib/python3.10/site-packages/task1-0.0.0-py3.10.egg-info
+[0.689s] running install_scripts
+[0.705s] writing list of installed files to '/home/ayush/ros2_ws/src/task1/build/task1/install.log'
+[0.723s] Invoked command in '/home/ayush/ros2_ws/src/task1/task1' returned '0': PYTHONPATH=/home/ayush/ros2_ws/src/task1/build/task1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/ros2_ws/src/task1/install/task1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/task1 build --build-base /home/ayush/ros2_ws/src/task1/build/task1/build install --record /home/ayush/ros2_ws/src/task1/build/task1/install.log --single-version-externally-managed install_data
